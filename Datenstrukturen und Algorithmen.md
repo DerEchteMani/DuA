@@ -1,4 +1,4 @@
-# Data Structures & Algorithms I
+# Data Structures & Algorithms
 
 - [Data Structures \& Algorithms I](#data-structures--algorithms-i)
   - [Asymptotische Schranken](#asymptotische-schranken)
